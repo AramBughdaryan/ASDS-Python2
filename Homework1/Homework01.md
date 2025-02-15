@@ -92,7 +92,7 @@ print(matrix_power(matrix, 0)) # [[1, 0], [0, 1]]
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 4 [10 points]  
+## Problem 4 [10 points]
 
 Write a function `compose(*funcs)` that takes an arbitrary number of single-argument functions and returns a new function that is the composition of the input functions. The composed function should apply each function in the order they were passed.  
 
